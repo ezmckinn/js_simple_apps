@@ -9,3 +9,7 @@ Basic game, with a cheat code. Try typing 'bomb'!
 *Whale Speak*
 
 This script converts any input phrase into whale speak. 
+
+*Credit Card Checker*
+
+Implementing the Luhn Algorithm to validate credit card numbers
